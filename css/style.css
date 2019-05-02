@@ -1,0 +1,14 @@
+body {
+  background-color: Green;
+}
+
+img {
+  border-radius: 40% 25% 40% 25%;
+  border-width: thick;
+  border: solid 10px;
+  border-color: darkgreen;
+}
+.noStyle {
+  border: none;
+  border-radius: 0;
+}
